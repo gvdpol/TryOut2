@@ -15,7 +15,7 @@ namespace PartsUnlimited.Controllers
     {
         private readonly IPartsUnlimitedContext _db;
         private readonly IMemoryCache _cache;
-        public int roco_count = 1000;
+        public int roco_count = 1;
 
         public HomeController(IPartsUnlimitedContext context, IMemoryCache memoryCache)
         {
