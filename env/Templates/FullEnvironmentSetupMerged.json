@@ -473,6 +473,7 @@
               "DefaultConnectionString"
             ],
             "appSettingNames": [
+              "ASPNETCORE_ENVIRONMENT",
               "APPINSIGHTS_INSTRUMENTATIONKEY",
               "Keys:ApplicationInsights:InstrumentationKey"
             ]
